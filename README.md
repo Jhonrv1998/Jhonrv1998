@@ -40,7 +40,7 @@ I'm a Computer Systems Engineering student based in Lima, Peru. I have a strong 
 
 ## 🌟 Featured Projects
 
-- **[Code Encryptor](https://github.com/Jhonrv1998/EncriptadorDeCodigo)** - A brief description of the project.
+- **[Code Encryptor](https://github.com/Jhonrv1998/EncriptadorDeCodigo)** - This web application is designed to convert input text into its encrypted or decrypted version, depending on the selected option. It provides a simple and efficient tool to ensure the privacy of textual information.
 
 ---
 
