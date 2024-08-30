@@ -1,5 +1,4 @@
-![Header](./assets/img-header.png)
-<h1 align="center">Hi! I'm Jhonrv 👋</h1>
+<h1 align="center">Hi! I'm Juan Ademir Reyes Villarreyes 👋</h1>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJxZ2E2eWMxMmZnYml0dzhhbGp1bTg4MnJjYXYyeDgxMDBpamgxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tyImHKVcZxuJq/giphy.gif" width="200" alt="Coding Gif">
 </p>
