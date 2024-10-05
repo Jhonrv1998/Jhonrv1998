@@ -4,11 +4,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJxZ2E2eWMxMmZnYml0dzhhbGp1bTg4MnJjYXYyeDgxMDBpamgxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tyImHKVcZxuJq/giphy.gif" width="200" alt="Coding Gif">
 </p>
 
-<p align="center">
-  <a href="https://github.com/Jhonrv1998">
-    <img src="https://img.shields.io/github/followers/Jhonrv1998?label=Followers&style=social" alt="GitHub followers">
-  </a>
-</p>
 
 <p align="center">
   Full-Stack Developer 💻 | Passionate about clean code ✨ | Always learning 📚
@@ -47,9 +42,6 @@ I'm a Computer Systems Engineering student based in Lima, Peru. I have a strong 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonrv1998&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonrv1998&theme=radical" alt="GitHub Streak">
@@ -60,9 +52,6 @@ I'm a Computer Systems Engineering student based in Lima, Peru. I have a strong 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-reyes-villarreyes-a90808293/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="mailto:juan.reyes.villarreyes@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
